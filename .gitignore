@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+*.py[cod]
+*.log
+__pycache__/
+venv/
+env/
+.env*
+privado.*
